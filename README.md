@@ -1,6 +1,6 @@
 This framework was created by Peter conneely for Ampion. I created a Maven project and used Java with cucumber steps to achieve execution.
 
-I used Intellij as the environment.
+I used Intellij as the environment. When opening the project please open it as a Maven project.
 
 Pre-requesties needed to launch the test are:
 
